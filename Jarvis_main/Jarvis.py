@@ -107,6 +107,8 @@ if __name__=="__main__":
       # ADD CODE TO GIVE INFORMATION ABOUT HACKTOBERFEST 2022  ### Issue No.4
 
       # ADD CODE TO OPEN CAMERA ON VOICE COMMAND   #### Issue No.5
+           elif "camera" in query or "take a photo" in query:
+            ec.capture(1, "Jarvis Camera ", "img.jpg")
 
       # ADD CODE TO PERFORM ADDITION, SUBSTRACTION , MULTIPLICATION , DIVISION , SQUARE ROOT ON VOICE COMMAND   ISSUE NO.6
 
