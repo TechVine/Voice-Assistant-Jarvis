@@ -99,7 +99,13 @@ if __name__=="__main__":
        speak(f"sir!! the time is {strtime}")
 
       # ADD CODE FOR MUSIC ### Issue No. 1 
-
+  elif 'play music' in query or "play song" in query:
+            speak("Here you go with music")
+            # music_dir = "D:\\LatestSong"
+            music_dir = "C:\\Users\\Abhishek\\LatestSong"
+            songs = os.listdir(music_dir)
+            print(songs)   
+            random = os.startfile(os.path.join(music_dir, songs[1]))
       # ADD CODE TO FIND OUT CPU CONFIGURATION ON VOICE COMMAND ### Issue No.2
 
       # ADD CODE TO FIND OUT CURRRENT DAY  ### Issue No.3
