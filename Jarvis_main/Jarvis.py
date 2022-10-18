@@ -97,8 +97,11 @@ if __name__=="__main__":
       elif 'time'in query:
        strtime= datetime.datetime.now().strftime("%H:%M")
        speak(f"sir!! the time is {strtime}")
-
-      # ADD CODE FOR MUSIC ### Issue No. 1 
+#open VS CODE 
+     elif 'open vs code ' in query:
+            appli = r"C:\\Users\\Abhishek\\AppData\\Local\\Programs\\Microsoft VS Code.exe"
+            os.startfile(appli)  
+    # ADD CODE FOR MUSIC ### Issue No. 1 
 
       # ADD CODE TO FIND OUT CPU CONFIGURATION ON VOICE COMMAND ### Issue No.2
 
