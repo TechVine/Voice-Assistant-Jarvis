@@ -21,7 +21,7 @@
 
     I have commented out lines where you have to make change as shown you in following image please edit these only to add more features
     
-    ![Screenshot 2022-10-18 224252](https://user-images.githubusercontent.com/115523060/196499566-117edf74-a11a-45be-98ce-2196a7f15d11.png)
+![Screenshot 2022-10-18 224252](https://user-images.githubusercontent.com/115523060/196499566-117edf74-a11a-45be-98ce-2196a7f15d11.png)
     
     
   #### For issue JARVIS!! Play a relaxing music for me
