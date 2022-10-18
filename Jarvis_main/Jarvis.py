@@ -100,7 +100,7 @@ if __name__=="__main__":
 
       # ADD CODE FOR MUSIC ### Issue No. 1 
 
-      # ADD CODE TO FIND OUT CPU CPNFIGURATION ON VOICE COMMAND ### Issue No.2
+      # ADD CODE TO FIND OUT CPU CONFIGURATION ON VOICE COMMAND ### Issue No.2
 
       # ADD CODE TO FIND OUT CURRRENT DAY  ### Issue No.3
 
@@ -110,11 +110,10 @@ if __name__=="__main__":
 
       # ADD CODE TO PERFORM ADDITION, SUBSTRACTION , MULTIPLICATION , DIVISION , SQUARE ROOT ON VOICE COMMAND   ISSUE NO.6
 
-      # ADD CODE TO GET IMAGES FROM GOOGLE ON VOICE COMMAND  ### ISSUE NO.7
-
+      # ADD CODE TO GET IMAGES ON GOOGLE   ### ISSUE NO.7
+           ### For Example Google search for tree should open images of trees on google
 
       
-########### CREATE A NEW FOLDER WITH FEATURE THAT YOU ARE ADDING THEN CREATE PULL REQUEST #################
 
 
 
