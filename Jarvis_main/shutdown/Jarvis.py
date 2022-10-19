@@ -97,7 +97,11 @@ if __name__=="__main__":
       elif 'time'in query:
        strtime= datetime.datetime.now().strftime("%H:%M")
        speak(f"sir!! the time is {strtime}")
-
+        
+        # ADDED code for shutdown system 
+elif 'shutdown system' in query:
+                speak("Hold On a Sec ! Your system is on its way to shut down")
+                subprocess.call('shutdown / p /f')
       # ADD CODE FOR MUSIC ### Issue No. 1 
 
       # ADD CODE TO FIND OUT CPU CONFIGURATION ON VOICE COMMAND ### Issue No.2
