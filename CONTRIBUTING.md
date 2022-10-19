@@ -1,6 +1,6 @@
 ## JARVIS Voice Assistant
 
-   This is a Python Project Named Jarvis which takes inpput from your voice command , process your input & generate oputput.
+   This is a Python Project Named Jarvis which takes input from your voice command , process your input & generate oputput.
        
 
 ### Requirements:
